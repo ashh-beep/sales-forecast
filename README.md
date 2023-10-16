@@ -52,7 +52,7 @@ Follow these instructions to get the app up and running on your local machine.
 
    ```bash
    git clone https://github.com/snyamson/P4-SalesSense-Interactive-Sales-Forecasting-Web-Application.git
-   cd SalesSense
+   cd P4-SalesSense-Interactive-Sales-Forecasting-Web-Application
    ```
 
 2. Create a virtual environment (optional but recommended):
